@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, We're Coresoft LLC</h1>
-<h3 align="left">Software Solutions Company</h3>
+<h1 align="center">Hi 👋, We're Coresoft LLC</h1>
+<h3 align="center">Software Solutions Company</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coresoftaz&label=Profile%20views&color=0e75b6&style=flat" alt="coresoftaz" /> </p>
 
@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/company/coresoftaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/coresoftaz/" height="30" width="40" /></a>
 <a href="https://fb.com/coresoft.az" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="coresoft.az" height="30" width="40" /></a>
+<a href="https://instagram.com/coresoftaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coresoftaz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@coresoftaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@coresoftaz" height="30" width="40" /></a>
 </p>
 
