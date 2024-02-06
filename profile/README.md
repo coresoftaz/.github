@@ -1,9 +1,7 @@
-<h1 align="ledt">Hi 👋, We're Coresoft LLC</h1>
+<h1 align="left">Hi 👋, We're Coresoft LLC</h1>
 <h3 align="left">Software Solutions Company</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coresoftaz&label=Profile%20views&color=0e75b6&style=flat" alt="coresoftaz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coresoftaz" alt="coresoftaz" /></a> </p>
 
 - 👨‍💻 All of our projects are available at [https://coresoft.az/en/portfolio](https://coresoft.az/en/portfolio)
 
